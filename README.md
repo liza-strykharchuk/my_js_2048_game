@@ -7,6 +7,8 @@ HTML
 SCSS (Sass)
 JavaScript
 
+Preview Link:
+
 [2048 Game](https://liza-strykharchuk.github.io/my_js_2048_game/).
 
 Additional Launch Instructions:
